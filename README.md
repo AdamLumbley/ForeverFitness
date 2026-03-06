@@ -40,7 +40,7 @@ This project demonstrates how SQL and Power BI can transform raw transaction dat
 * `order_date`
 * `total_amount`
 
-## Query
+## Sample Query
 
 ### Month-over-Month (MoM) Revenue Analysis
 
