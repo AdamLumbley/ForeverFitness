@@ -63,12 +63,48 @@ FROM monthly_revenue;
 
 ## Key Insights
 
-* Monthly revenue aggregation highlights fluctuations in sales performance across the year.
-* Month-over-Month (MoM) analysis measures short-term revenue growth by comparing each month to the previous one.
-* SQL window functions (`LAG`) calculate revenue change and percentage growth between months.
-* A cumulative revenue metric shows overall revenue progression over time.
-* The resulting dataset feeds directly into a Power BI dashboard for visualization and business monitoring.
-* Ranking top products by total revenue highlights which items drive the most sales, helping prioritize inventory and marketing focus.
+Key Insights
+Seasonal Revenue Trends
+
+Revenue starts moderate in January (~$359.92) and steadily grows, peaking in May (~$389.92).
+
+Slight dips occur mid-year (July/August) before rebounding towards the end of the year.
+
+Suggests seasonal patterns: spring promotions or new product launches might drive revenue spikes.
+
+Month-over-Month (MoM) Growth
+
+Biggest MoM increases happen in April → May, indicating strong mid-year growth.
+
+Negative or small growth occurs in July, signaling potential slow months or the need for marketing focus.
+
+Cumulative Revenue
+
+Total revenue steadily accumulates month-to-month, demonstrating consistent business growth over the year.
+
+By December, cumulative revenue reaches ~$1,230–$1,250, showing strong annual performance.
+
+Top-Selling Products
+
+Whey Protein (product_id 1) appears frequently across months → consistently drives sales.
+
+Pre-Workout and Creatine Monohydrate also contribute significantly.
+
+Top 5 products generate the majority of total revenue, highlighting where inventory and marketing focus should go.
+
+Customer Behavior
+
+All 5 customers make repeated purchases throughout the year, showing customer retention.
+
+Certain products (protein powders) have higher quantities per order → product bundling or promotions could increase revenue further.
+
+Strategic Opportunities
+
+Mid-year slowdowns (July–August) could be targeted with promotions or marketing campaigns.
+
+Focus on top revenue-driving products for upselling, cross-selling, or bundles.
+
+Consider introducing seasonal supplements or limited-time offers to smooth revenue dips.
 
 ## Skills Demonstrated
 
