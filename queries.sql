@@ -13,7 +13,7 @@ SELECT month,
        ROUND(SUM(revenue) OVER (ORDER BY month),0) AS cumulative_total
 FROM monthly_revenue;
 
--- Calculate total revenue per product and rank products by revenue
+-- Categories Ranked By Revenue
 WITH product_revenue AS (
     SELECT
         p.product_id,
