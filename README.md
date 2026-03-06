@@ -3,6 +3,7 @@
 Month-over-Month (MoM) revenue analysis for an e-commerce sports supplements store.
 
 ![Power BI Visual](https://github.com/AdamLumbley/ForeverFitness/raw/main/ForeverFitness%20Power%20BI%20MoM%20%2B%20Cumulative%20Total.png)
+https://raw.githubusercontent.com/AdamLumbley/ForeverFitness/main/ForeverFitness%20Top%20Products%20By%20Revenue.png
 
 ## Overview
 
