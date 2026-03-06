@@ -78,3 +78,9 @@ FROM monthly_revenue;
 * Time-based revenue analysis
 * Month-over-Month (MoM) growth metrics
 * Power BI dashboard development and KPI visualization
+
+## How to Run
+
+1. Load `schema.sql` and `seed_data.sql` into SQLite.  
+2. Run queries from `queries.sql` to reproduce analysis.  
+3. Open Power BI and connect to the database to visualize the dashboard.
