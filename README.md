@@ -10,6 +10,8 @@ Month-over-Month (MoM) revenue analysis for an e-commerce sports supplements sto
 Month-over-Month (MoM) revenue analysis for an e-commerce sports supplements store.
 This project demonstrates how SQL and Power BI can transform raw transaction data into business insights such as monthly revenue trends, cumulative revenue growth, and MoM performance.
 
+This dashboard also analyzes the top products by total revenue, ranking the top 5 products to highlight which items drive the most revenue for ForeverFitness.
+
 ## Tools Used
 
 * **SQL / SQLite** – schema creation and revenue analysis queries
@@ -67,6 +69,7 @@ FROM monthly_revenue;
 * SQL window functions (`LAG`) calculate revenue change and percentage growth between months.
 * A cumulative revenue metric shows overall revenue progression over time.
 * The resulting dataset feeds directly into a Power BI dashboard for visualization and business monitoring.
+* Ranking top products by total revenue highlights which items drive the most sales, helping prioritize inventory and marketing focus.
 
 ## Skills Demonstrated
 
