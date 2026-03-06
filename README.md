@@ -77,4 +77,4 @@ FROM monthly_revenue;
 * SQL window functions (`LAG`, cumulative `SUM`)
 * Time-based revenue analysis
 * Month-over-Month (MoM) growth metrics
-* Data visualization with Power BI
+* Power BI dashboard development and KPI visualization
