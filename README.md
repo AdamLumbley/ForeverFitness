@@ -63,29 +63,37 @@ FROM monthly_revenue;
 
 ## Key Insights
 
-1. **Seasonal Revenue Trends**  
+## Key Insights
+
+1. **Seasonal Revenue Trends**
+
    - Revenue starts moderate in January (~$359.92) and steadily grows, peaking in May (~$389.92).  
    - Slight dips occur mid-year (July/August) before rebounding toward the end of the year.  
    - Suggests seasonal patterns: spring promotions or new product launches might drive revenue spikes.
 
-2. **Month-over-Month (MoM) Growth**  
+2. **Month-over-Month (MoM) Growth**
+
    - Biggest MoM increases happen in April → May, indicating strong mid-year growth.  
    - Negative or small growth occurs in July, signaling potential slow months or the need for marketing focus.
 
-3. **Cumulative Revenue**  
+3. **Cumulative Revenue**
+
    - Total revenue steadily accumulates month-to-month, demonstrating consistent business growth over the year.  
    - By December, cumulative revenue reaches ~$1,230–$1,250, showing strong annual performance.
 
-4. **Top-Selling Products**  
+4. **Top-Selling Products**
+
    - Whey Protein appears frequently across months → consistently drives sales.  
    - Pre-Workout and Creatine Monohydrate also contribute significantly.  
    - Top 5 products generate the majority of total revenue, highlighting where inventory and marketing focus should go.
 
-5. **Customer Behavior**  
+5. **Customer Behavior**
+
    - All 5 customers make repeated purchases throughout the year, showing customer retention.  
    - Certain products (protein powders) have higher quantities per order → product bundling or promotions could increase revenue further.
 
-6. **Strategic Opportunities**  
+6. **Strategic Opportunities**
+
    - Mid-year slowdowns (July–August) could be targeted with promotions or marketing campaigns.  
    - Focus on top revenue-driving products for upselling, cross-selling, or bundles.  
    - Consider introducing seasonal supplements or limited-time offers to smooth revenue dips.
