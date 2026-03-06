@@ -1,14 +1,13 @@
 # ForeverFitness
 
-Month-over-Month (MoM) revenue analysis for an e-commerce sports supplements store.
+ForeverFitness: SQL + Power BI Revenue Analytics Dashboard
 
 ![Power BI Visual](https://github.com/AdamLumbley/ForeverFitness/raw/main/ForeverFitness%20Power%20BI%20MoM%20%2B%20Cumulative%20Total.png)
 ![Top Products by Revenue](https://raw.githubusercontent.com/AdamLumbley/ForeverFitness/main/ForeverFitness%20Top%20Products%20By%20Revenue.png)
 
 ## Overview
 
-Month-over-Month (MoM) revenue analysis for an e-commerce sports supplements store.
-This project demonstrates how SQL and Power BI can transform raw transaction data into business insights such as monthly revenue trends, cumulative revenue growth, and MoM performance.
+This project analyzes sales data from a simulated e-commerce sports supplements store to demonstrate how SQL and Power BI can transform raw transaction data into business insights.
 
 This dashboard also analyzes the top products by total revenue, ranking the top 5 products to highlight which items drive the most revenue for ForeverFitness.
 
