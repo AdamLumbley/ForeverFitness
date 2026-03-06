@@ -60,9 +60,6 @@ SELECT month,
        ROUND(SUM(revenue) OVER (ORDER BY month),0) AS cumulative_total
 FROM monthly_revenue;
 ```
-
-## Key Insights
-
 ## Key Insights
 
 1. **Seasonal Revenue Trends**
