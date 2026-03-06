@@ -67,7 +67,7 @@ FROM monthly_revenue;
 
 1. **Seasonal Revenue Trends**
 
-   - Revenue starts moderate in January (~$359.92) and steadily grows, peaking in May (~$389.92).  
+   - Revenue starts moderate in January ($359.92) and steadily grows, peaking in May ($389.92).  
    - Slight dips occur mid-year (July/August) before rebounding toward the end of the year.  
    - Suggests seasonal patterns: spring promotions or new product launches might drive revenue spikes.
 
