@@ -1,9 +1,10 @@
 # ForeverFitness
+ForeverFitness: SQL + Power BI Revenue Analytics Report
 
-ForeverFitness: SQL + Power BI Revenue Analytics Dashboard
+A data analytics project demonstrating how SQL and Power BI can transform transactional e-commerce data into actionable revenue insights.
 
 ![Power BI Visual](https://github.com/AdamLumbley/ForeverFitness/raw/main/ForeverFitness%20Power%20BI%20MoM%20%2B%20Cumulative%20Total.png)
-![2025 Revenue by Location](ForeverFitness%20ArcGIS%202025%20Revenue%20By%20Location.png)
+![2025 Revenue by Location](https://raw.githubusercontent.com/AdamLumbley/ForeverFitness/main/ForeverFitness%20ArcGIS%202025%20Revenue%20By%20Location.png)
 ![Top Products by Revenue](https://raw.githubusercontent.com/AdamLumbley/ForeverFitness/main/ForeverFitness%20Top%20Products%20By%20Revenue.png)
 
 ## Overview
@@ -12,10 +13,12 @@ This project analyzes sales data from a simulated e-commerce sports supplements 
 
 This dashboard also analyzes the top products by total revenue, ranking the top 5 products to highlight which items drive the most revenue for ForeverFitness.
 
-## Tools Used
+## Tech Stack
 
-* **SQL / SQLite** – schema creation and revenue analysis queries
-* **Power BI** – visualization of revenue trends and cumulative performance
+* **SQLite** – relational database, schema design, and query analysis
+* **SQL** – CTEs, window functions, and time-based revenue analytics
+* **Power BI** – interactive dashboard and KPI visualization
+* **ArcGIS for Power BI** – geospatial revenue mapping by location
 
 ## Database Schema
 
@@ -87,7 +90,7 @@ FROM monthly_revenue;
 
 5. **Customer Behavior**
 
-   - All 5 customers make repeated purchases throughout the year, showing customer retention.  
+   - Customers demonstrate repeat purchasing behavior throughout the year, indicating potential retention and recurring demand.
    - Certain products (protein powders) have higher quantities per order → product bundling or promotions could increase revenue further.
 
 6. **Strategic Opportunities**
@@ -103,7 +106,7 @@ FROM monthly_revenue;
 * SQL window functions (`LAG`, cumulative `SUM`)
 * Time-based revenue analysis
 * Month-over-Month (MoM) growth metrics
-* Power BI dashboard development and KPI visualization
+* Power BI report development and KPI visualization
 
 ## How to Run
 
