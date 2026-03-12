@@ -1,7 +1,7 @@
 # ForeverFitness
 ForeverFitness: SQL + Power BI Revenue Analytics Report
 
-A data analytics project demonstrating how SQL and Power BI can transform transactional e-commerce data into actionable revenue insights.
+This project demonstrates end-to-end ETL pipelines for an e-commerce sports supplements store: data was extracted from SQLite, transformed and cleaned for analysis, and loaded into Power BI dashboards to generate actionable revenue insights.
 
 ![Power BI Visual](https://github.com/AdamLumbley/ForeverFitness/raw/main/ForeverFitness%20Power%20BI%20MoM%20%2B%20Cumulative%20Total.png)
 ![2025 Revenue by Location](https://raw.githubusercontent.com/AdamLumbley/ForeverFitness/main/ForeverFitness%20ArcGIS%202025%20Revenue%20By%20Location.png)
